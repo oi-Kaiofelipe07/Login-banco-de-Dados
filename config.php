@@ -2,7 +2,7 @@
 
     $dbHost = 'LocalHost';
     $dbUsername = 'root';
-    $dbPassword = 'Kaioeclara17!';
+    $dbPassword = '************';
     $dbName = 'formulario-kaio';
 
    $conexao = new mysqli ($dbHost,$dbUsername,$dbPassword,$dbName);
